@@ -14,8 +14,8 @@
 
 static int	ft_put_err(char *str)
 {
-	write(1, "Error\n", 6);
-	write(1, &str[0], ft_strlen(str));
+	write(2, "Error\n", 6);
+	write(2, &str[0], ft_strlen(str));
 	return (1);
 }
 
