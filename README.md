@@ -82,13 +82,13 @@ The program is written in C language and thus needs the **gcc compiler** and som
 To compile the mandatoy part, run:
 
 ```shell
-$ cd path/to/philo && make
+$ cd path/to/Philosophers && make
 ```
 
 To compile the bonus part, run:
 
 ```shell
-$ cd path/to/philo_bonus && make
+$ cd path/to/Philosophers && make bonus
 ```
 
 **2. How to run the program**
