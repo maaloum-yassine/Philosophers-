@@ -102,4 +102,5 @@ The arguments must be integers between 0 and INT_MAX representing a time in mill
 
 ```shell
 ./philo 5 800 200 200 7
+./philo_bonus 5 800 200 200 7
 ```
