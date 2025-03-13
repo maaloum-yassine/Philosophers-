@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersn.png" alt="Philosophers 42 project badge"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/philosopherse.png" alt="Philosophers 42 project badge"/>
+</p>
+
+## 🎥 Score 🥇✅
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/Philosophers42.png" alt="Score 42 project 115"/>
 </p>
 
   <h3>
